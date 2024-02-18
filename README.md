@@ -1,1 +1,2 @@
-# python-newsfeed
+# NewsFeed App in Python
+
